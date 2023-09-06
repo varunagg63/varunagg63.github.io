@@ -25,19 +25,20 @@ Syringes are very common in the medical industry. Automated syringe systems exis
 
 ## Parts:
 ### Off-the-Shelf:
-| Part | QTY |
-| ---- | --- | 
-| Linear Bearing | 1 | 
-| Lead Screw | 1 | 
-| Arduino UNO | 1| 
-| NEMA Motor | 1 | 
-| Flex Coupler | 1 | 
-| Linear Rod | 1 | 
-| 5 mL Syringe | 1 | 
-| 20 mL Syringe | 1 | 
-| LED Light | 1 | 
-| Limit Switch | 1 |
-| Buttons | 2 | 
+
+ | Part | QTY |
+ | ---- | --- | 
+ | Linear Bearing | 1 | 
+ | Lead Screw | 1 | 
+ | Arduino UNO | 1| 
+ | NEMA Motor | 1 | 
+ | Flex Coupler | 1 | 
+ | Linear Rod | 1 | 
+ | 5 mL Syringe | 1 | 
+ | 20 mL Syringe | 1 | 
+ | LED Light | 1 | 
+ | Limit Switch | 1 |
+ | Buttons | 2 | 
 
 
 
