@@ -38,6 +38,7 @@ Syringes are very common in the medical industry. Automated syringe systems exis
  | 20 mL Syringe | 1 | 
  | LED Light | 1 | 
  | Limit Switch | 1 |
+ | Aluminum Extrusion | 1 | 
  | Buttons | 2 | 
 
 ### 3D Printed: 
