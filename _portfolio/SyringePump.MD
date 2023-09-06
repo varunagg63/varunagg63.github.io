@@ -13,6 +13,18 @@ gallery:
 ---
 {% include gallery caption="Images of the product." %}
 
+## Purpose:
+Syringes are very common in the medical industry. Automated syringe systems exist but are usaully costly and may be difficult for healthcare providers to setup. This project aimed to design an automated syringe pump that could dispense fluid at a set flow rate while also being user and cost friendly. 
+### Features:
+* LED indicator of run, pause, empty
+* Button to start, stop
+* Limit switch to shutdown system when fully dispensed
+* Sealed electronic enclosure
+* Accomodates 20 mL and 5 mL syringe sizes
+* Simple rate input to code
+
+
+
 
 ## Code 
 See syringe pump code here: [Code](https://github.com/varunagg63/varunagg63.github.io/blob/main/SyringeCode.ino)
