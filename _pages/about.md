@@ -3,6 +3,7 @@
 title: "About Varun Aggarwal"
 
 ---
+
 Varun is a senior mechanical engineering student seeking a career in the aerospace industry and has the following background:
 
 ## Education
