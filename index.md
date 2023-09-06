@@ -8,13 +8,13 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Varun is an engineer student with particular interest in aerospace and automative engineering. He has completed a variety of projects that incorporate both design and fabrication elements."
 feature_row:
   - image_path: assets/img/Car.jpg
     title: "Formula Racing Car"
     excerpt: "Formula style car that competes in the FSAE competition."
   - image_path: assets/img/Syringe.jpg
-    title: "Automated Syring Pump"
+    title: "Automated Syringe Pump"
     excerpt: "Automatic syringe pump that can dispense fluid at set flow rate."
   - image_path: assets/img/cncfoam.jpg
     title: "CNC Foam Cutter"
