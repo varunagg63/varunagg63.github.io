@@ -7,13 +7,13 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Varun Aggarwal"
 title_separator          : "-"
-subtitle                 : "Example Website for Class"
+subtitle                 : "Engineering Student"
 name                     : &name "Varun Aggarwal" # &name is a YAML anchor which can be *referenced later
 description              : &description "Example website for class "
 url                      : https://varunagg63.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -98,15 +98,13 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "assets/img/David_Headshot_web2.jpg"
-  bio              : "An engineer with a passion for teaching "
-  location         : "Nashville, TN"
+  bio              : "Engineering student"
+  location         : "Chicago, IL"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://github.com/varunagg63"
+   
 
 
 # Site Footer
@@ -114,10 +112,8 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://github.com/varunagg63"
+  
 
 
 # Reading Files
