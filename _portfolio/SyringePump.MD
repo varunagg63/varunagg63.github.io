@@ -13,7 +13,10 @@ gallery:
 ---
 {% include gallery caption="Images of the product." %}
 
-Up until recent
 
-# CAD Model
+## Code 
+See syringe pump code here: [Code](https://github.com/varunagg63/varunagg63.github.io/blob/main/SyringeCode.ino)
+
+
+## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e30e580610129e8c1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
