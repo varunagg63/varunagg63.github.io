@@ -14,7 +14,7 @@ gallery:
 {% include gallery caption="Images of the product." %}
 
 ## Purpose:
-Syringes are very common in the medical industry. Automated syringe systems exist but are usaully costly and may be difficult for healthcare providers to setup. This project aimed to design an automated syringe pump that could dispense fluid at a set flow rate while also being user and cost friendly. 
+Syringes are very common in the medical industry. Automated syringe systems exist but are usually costly and may be difficult for healthcare providers to setup. This project aimed to design an automated syringe pump that could dispense fluid at a set flow rate while also being user and cost friendly. 
 ### Features:
 * LED indicator of run, pause, empty
 * Button to start, stop
@@ -32,3 +32,13 @@ See syringe pump code here: [Code](https://github.com/varunagg63/varunagg63.gith
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e30e580610129e8c1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Operating Instructions:
+* Choose the syringe size and fill with however much liquid is needed, manually
+* Use the forward and reverse buttons to set the proper distance for the length of the syringe
+* Insert syringe handle into back plunger, the middle flange into the middle barrel stabilizer slot, and the front through the front barrel hole
+* Set the flow rate and size with code
+* Press the start button and it should operate correctly
+* If you need to pause, then press the red button again 
+* When the syringe is fully compressed, you can press the reverse button to pull the plunger out again and repeat the above proces
+
