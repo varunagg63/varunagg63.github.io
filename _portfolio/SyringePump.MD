@@ -40,8 +40,15 @@ Syringes are very common in the medical industry. Automated syringe systems exis
  | Limit Switch | 1 |
  | Buttons | 2 | 
 
+### 3D Printed: 
 
-
+ | Part | QTY |
+ | ---- | --- | 
+ | Motor Mount | 1 | 
+ | Enclosure | 1 | 
+ | Back Plunger Holder | 1| 
+ | Front Barrel Holder | 1 | 
+ | Nozzle Holder | 1 | 
 
 
 ## Code 
