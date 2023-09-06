@@ -23,6 +23,23 @@ Syringes are very common in the medical industry. Automated syringe systems exis
 * Accomodates 20 mL and 5 mL syringe sizes
 * Simple rate input to code
 
+## Parts:
+### Off-the-Shelf:
+| Part | QTY |
+| ---- | --- | 
+| Linear Bearing | 1 | 
+| Lead Screw | 1 | 
+| Arduino UNO | 1| 
+| NEMA Motor | 1 | 
+| Flex Coupler | 1 | 
+| Linear Rod | 1 | 
+| 5 mL Syringe | 1 | 
+| 20 mL Syringe | 1 | 
+| LED Light | 1 | 
+| Limit Switch | 1 |
+| Buttons | 2 | 
+
+
 
 
 
@@ -32,6 +49,10 @@ See syringe pump code here: [Code](https://github.com/varunagg63/varunagg63.gith
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e30e580610129e8c1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
+
+
 
 ## Operating Instructions:
 * Choose the syringe size and fill with however much liquid is needed, manually
