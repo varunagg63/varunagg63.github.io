@@ -8,7 +8,7 @@ Varun is a senior mechanical engineering student seeking a career in the aerospa
 ## Education
  
 Vanderbilt University
- *B.S Mechanical Engineering - May 2024 Completion *
+ *B.S Mechanical Engineering - May 2024 Completion
 
 
 ## Work Experience
