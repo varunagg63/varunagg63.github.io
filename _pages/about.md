@@ -14,7 +14,7 @@ Vanderbilt University
 ## Work Experience
 
 SpaceX
-*Starship Engineering Intern - Fluid Systems*
+*Starship Engineering Intern - Fluid Systems
  *Jun-May 2023
 *Production Intern - Fluid Systems
  *Jan-Jun 2023
