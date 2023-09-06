@@ -1,31 +1,36 @@
 ---
 
-title: "About David Florian"
+title: "About Varun Aggarwal"
 
 ---
+Varun is a senior mechanical engineering student seeking a career in the aerospace industry and has the following background:
 
 ## Education
-
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
-
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
+ 
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * B.S Mechanical Engineering - May 2024 Completion 
 
+
+## Work Experience
+
+*SpaceX
+ *Starship Engineering Intern - Fluid Systems
+  *Jun-May2023
+ *Production Intern - Fluid Systems
+  *Jan-Jun 2023
+
+  
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+*Digital Fabrication Skills
+ * Fused Filament Fabrication (FFF)
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+*Programming
+ *MATLAB
+ *Arduino
+ *Python
 
-## Press 
+*Machining (Mill, Lathe, Bandsaw)
+*3D Modeling (Solidworks, Fusion 360, Siemens NX)
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
