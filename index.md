@@ -11,16 +11,14 @@ header:
 excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
 feature_row:
   - image_path: assets/img/Car.jpg
-    alt: "CNC Mill"
     title: "Formula Racing Car"
     excerpt: "Formula style car that competes in the FSAE competition."
   - image_path: assets/img/Syringe.jpg
-    alt: "placeholder image 2"
     title: "Automated Syring Pump"
     excerpt: "Automatic syringe pump that can dispense fluid at set flow rate."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/cncfoam.jpg
+    title: "CNC Foam Cutter"
+    excerpt: "CNC hot wire cutter for foam."
 ---
 
 {% include feature_row %}
