@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Varun's Website"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Varun is an engineer student with particular interest in aerospace and automative engineering. He has completed a variety of projects that incorporate both design and fabrication elements."
+excerpt: "Varun is an engineering student with particular interest in aerospace and automative engineering. He has completed a variety of projects that incorporate both design and fabrication elements."
 feature_row:
   - image_path: assets/img/Car.jpg
     title: "Formula Racing Car"
