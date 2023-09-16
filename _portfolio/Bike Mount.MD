@@ -13,6 +13,9 @@ gallery:
 ---
 {% include gallery caption="Images of the product." %}
 
+## CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e32f0ba7d00d4c775?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## Purpose:
 Syringes are very common in the medical industry. Automated syringe systems exist but are usually costly and may be difficult for healthcare providers to setup. This project aimed to design an automated syringe pump that could dispense fluid at a set flow rate while also being user and cost friendly. 
 ### Features:
@@ -23,41 +26,6 @@ Syringes are very common in the medical industry. Automated syringe systems exis
 * Accomodates 20 mL and 5 mL syringe sizes
 * Simple rate input to code
 
-## Parts:
-### Off-the-Shelf:
-
- | Part | QTY |
- | ---- | --- | 
- | Linear Bearing | 1 | 
- | Lead Screw | 1 | 
- | Arduino UNO | 1| 
- | NEMA Motor | 1 | 
- | Flex Coupler | 1 | 
- | Linear Rod | 1 | 
- | 5 mL Syringe | 1 | 
- | 20 mL Syringe | 1 | 
- | LED Light | 1 | 
- | Limit Switch | 1 |
- | Aluminum Extrusion | 1 | 
- | Buttons | 2 | 
-
-### 3D Printed: 
-
- | Part | QTY |
- | ---- | --- | 
- | Motor Mount | 1 | 
- | Enclosure | 1 | 
- | Back Plunger Holder | 1| 
- | Front Barrel Holder | 1 | 
- | Nozzle Holder | 1 | 
-
-
-## Code 
-See syringe pump code here: [Code](https://github.com/varunagg63/varunagg63.github.io/blob/main/SyringeCode.ino)
-
-
-## CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e30e580610129e8c1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 
