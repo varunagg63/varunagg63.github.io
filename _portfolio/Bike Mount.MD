@@ -2,10 +2,10 @@
 title: "Bike Phone Mount"
 excerpt: "Phone mount that can be secured to bike handle bar"
 header:
-  teaser: /assets/img/syringe render .jpg
+  teaser: /assets/img/mountrender.PNG
 gallery:
-  - url: /assets/img/Syringe.jpg
-    image_path: assets/img/Syringe.jpg
+  - url: /assets/img/mountreal1.jpg
+    image_path: assets/img/mountreal1.jpg
     alt: "placeholder image 1"
   - url: /assets/img/syringe wires.jpg
     image_path: assets/img/syringe wires.jpg
