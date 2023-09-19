@@ -7,9 +7,7 @@ gallery:
   - url: /assets/img/mountreal1.jpg
     image_path: assets/img/mountreal1.jpg
     alt: "placeholder image 1"
-  - url: /assets/img/syringe wires.jpg
-    image_path: assets/img/syringe wires.jpg
-    alt: "placeholder image 2"
+ 
 ---
 {% include gallery caption="Images of the product." %}
 
