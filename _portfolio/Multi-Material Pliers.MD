@@ -24,9 +24,9 @@ The objective of the project was to create needle-nose pliers to pick up a resis
 ## Design:
   * PLA was used to print the handle and jaw piece
   * A TPU web was inserted into the middle of the piece connecting the jaws and handles together
-  **   This was made as a square because the parallelogram shape during flexion would allow the jaws to close
+    * This was made as a square because the parallelogram shape during flexion would allow the jaws to close
   * The TPU was held in the PLA using a PLA rod with TPU printed around it. 
-  **   A mechanical way to fasten was more reliable that relying on intermaterial adhesion 
+    * A mechanical way to fasten was more reliable that relying on intermaterial adhesion 
 
 
 ## CAD Model
