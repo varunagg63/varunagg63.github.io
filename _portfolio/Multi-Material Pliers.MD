@@ -4,13 +4,11 @@ excerpt: "Multimaterial flexible pliers"
 header:
   teaser: /assets/img/pliersrender.jpg
 gallery:
-  - url: /assets/img/mountreal1.jpg
-    image_path: assets/img/mountreal1.jpg
+  - url: 
+    image_path: 
     alt: "placeholder image 1"
  
 ---
-{% include gallery caption="Images of the product." %}
-
 ## Project Description: 
 The objective of the project was to create needle-nose pliers to pick up a resistor sized part. These pliers needed to incorporate a flexible element that returns the pliers to its closed positon when not in use. 
   * Print-in-place models are 3D printed models that can work immediately after removal from the print bed
