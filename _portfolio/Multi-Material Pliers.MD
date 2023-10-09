@@ -2,7 +2,7 @@
 title: "Multi-Material Pliers "
 excerpt: "Multimaterial flexible pliers"
 header:
-  teaser: /assets/img/mountrender.PNG
+  teaser: /assets/img/pliersrender.jpg
 gallery:
   - url: /assets/img/mountreal1.jpg
     image_path: assets/img/mountreal1.jpg
@@ -28,7 +28,7 @@ The objective of the project was to create needle-nose pliers to pick up a resis
   * The TPU was held in the PLA using a PLA rod with TPU printed around it. 
     * A mechanical way to fasten was more reliable that relying on intermaterial adhesion 
 
-/assets/img/plierrod.jpg
+![] [/assets/img/plierrod.jpg]
 
 
 ## CAD Model
@@ -39,3 +39,7 @@ The objective of the project was to create needle-nose pliers to pick up a resis
 ## Specifications:
 
 ## Print Settings:
+  * Bed Temperature: 60 C
+  * PLA Extruder: 210 C
+  * TPU Extruder: 225 C 
+  * Wipe Tower printed to purge out leaking filament in idle nozzle before each layer - reduced in width to 40 mm for faster print 
