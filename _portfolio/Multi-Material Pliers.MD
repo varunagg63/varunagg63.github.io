@@ -25,19 +25,23 @@ The objective of the project was to create needle-nose pliers to pick up a resis
   * PLA was used to print the handle and jaw piece
   * A TPU web was inserted into the middle of the piece connecting the jaws and handles together
     * This was made as a square because the parallelogram shape during flexion would allow the jaws to close
+    * Web was made 3mm thick, this avoided being too thin that it breaks but not too thick where it can't flex
   * The TPU was held in the PLA using a PLA rod with TPU printed around it. 
     * A mechanical way to fasten was more reliable that relying on intermaterial adhesion 
 
-  ![PLA rod encased by TPU](assets/img/plierrod.jpg)
+### Material Joint
+![PLA rod encased by TPU](assets/img/plierrod.jpg)
 
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ebe9b022c34aef481?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Video:
-  ![Pliers in action](assets/img/pliervid.MOV)
+![Pliers in action](assets/img/pliervid.MOV)
+
 ## Specifications:
-  ![Pliers specs](assets/img/plierspec.jpg)
+![Pliers specs](assets/img/plierspec.jpg)
+
 ## Print Settings:
   * Bed Temperature: 60 C
   * PLA Extruder: 210 C
