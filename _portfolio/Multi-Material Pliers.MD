@@ -28,6 +28,8 @@ The objective of the project was to create needle-nose pliers to pick up a resis
   * The TPU was held in the PLA using a PLA rod with TPU printed around it. 
     * A mechanical way to fasten was more reliable that relying on intermaterial adhesion 
 
+![Image of PLA rod connecting to TPU].(/assets/img/plierrod.jpg)
+
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ebe9b022c34aef481?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
