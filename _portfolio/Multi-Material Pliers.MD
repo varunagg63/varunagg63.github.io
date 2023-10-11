@@ -38,7 +38,7 @@ The objective of the project was to create needle-nose pliers to pick up a resis
 ![Pliers in action](assets/img/pliervid.MOV)
 
 ## Specifications:
-![Pliers specs](assets/img/plierspec.jpg)
+![Pliers specs](/assets/img/plierspec.jpg)
 
 ## Print Settings:
   * Bed Temperature: 60 C
