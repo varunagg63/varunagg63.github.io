@@ -35,7 +35,7 @@ The objective of the project was to create needle-nose pliers to pick up a resis
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ebe9b022c34aef481?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Video:
-![Pliers in action](/assets/img/pliervid.MOV)
+![Pliers in action](https://github.com/varunagg63/varunagg63.github.io/blob/main/assets/img/pliergif.gif)
 
 ## Specifications:
 ![Pliers specs](/assets/img/plierspec.jpg)
