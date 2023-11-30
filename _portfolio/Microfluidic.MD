@@ -1,6 +1,6 @@
 ---
-title: "Multi-Material Pliers "
-excerpt: "Multimaterial flexible pliers"
+title: "Microfluidic Device"
+excerpt: "VPP of a microfluidic device"
 header:
   teaser: /assets/img/pliersrender.jpg
 gallery:
