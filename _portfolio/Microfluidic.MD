@@ -4,7 +4,7 @@ excerpt: "VPP print of a microfluidic device"
 header:
   teaser: /assets/img/mixermain.jpg
 ---
-![alt](/assets/img/micromold.jpg) ![alt](/assets/img/mixermain.jpg)
+![alt](/assets/img/micromold.jpg)
 
 ## Microfluidic Device Description: 
   * Microfluidic devices enable rapid and thorough mixing of fluids on a micro scale
