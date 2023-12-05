@@ -3,12 +3,9 @@ title: "Microfluidic Device"
 excerpt: "VPP print of a microfluidic device"
 header:
   teaser: /assets/img/mixermain.jpg
-gallery:
-  ![alt](/assets/img/micromold.jpg)
-
-
- 
 ---
+![alt](/assets/img/micromold.jpg) ![alt](/assets/img/mixermain.jpg)
+
 ## Microfluidic Device Description: 
   * Microfluidic devices enable rapid and thorough mixing of fluids on a micro scale
     * Channels allow flow at a high contact surface to volume ratio, which enables effective mixing of liquids
