@@ -2,7 +2,7 @@
 title: "Microfluidic Device"
 excerpt: "VPP print of a microfluidic device"
 header:
-  teaser: /assets/img/pliersrender.jpg
+  teaser: /assets/img/mixermain.jpg
 gallery:
   - url: 
     image_path: 
