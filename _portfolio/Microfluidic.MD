@@ -4,9 +4,10 @@ excerpt: "VPP print of a microfluidic device"
 header:
   teaser: /assets/img/mixermain.jpg
 gallery:
-  - url: assets/img/micromold.jpg
-    image_path: /assets/img/micromold.jpg
+  - url: /assets/img/micromold.jpg
+    image_path: assets/img/micromold.jpg
     alt: "placeholder image 1"
+
  
 ---
 ## Microfluidic Device Description: 
@@ -59,16 +60,17 @@ gallery:
     ** Disruptive mixing effect
     ** Adds Z direction mix
 
+## Specifications:
+![Top view](/assets/img/moldtopdim.jpg)
+![Side view](/assets/img/moldsidedim.jpg)
 
-## Material Joint
-![PLA rod encased by TPU](/assets/img/plierrod.jpg)
-
-
+* Dimensions decided by given drawing to fit on glass slide
+* Apect ratio for posts <3:1
+* Post is 1.55mm above top for microfluidic barb
 
 
 ## Video:
 ![Pliers in action](/assets/img/pliergif.gif)
 
-## Specifications:
-![Pliers specs](/assets/img/plierspec.jpg)
+
 
