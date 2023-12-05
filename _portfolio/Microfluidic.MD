@@ -3,10 +3,9 @@ title: "Microfluidic Device"
 excerpt: "VPP print of a microfluidic device"
 header:
   teaser: /assets/img/mixermain.jpg
-gallery:
-  - url: /assets/img/micromold.jpg
-    image_path: assets/img/micromold.jpg
-    alt: "placeholder image 1"
+
+![alt](/assets/img/micromold.jpg)
+
 
  
 ---
@@ -67,11 +66,11 @@ gallery:
 
 * Dimensions decided by given drawing to fit on glass slide
 * Apect ratio for posts <3:1
-* Post is 1.55mm above top for microfluidic barb
+* Post is 1.5 mm above top for microfluidic barb
 
 
 ## Video:
-![Pliers in action](/assets/img/pliergif.gif)
+![Mold in action](/assets/img/pliergif.gif)
 
 
 
