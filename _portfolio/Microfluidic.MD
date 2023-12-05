@@ -3,8 +3,8 @@ title: "Microfluidic Device"
 excerpt: "VPP print of a microfluidic device"
 header:
   teaser: /assets/img/mixermain.jpg
-
-![alt](/assets/img/micromold.jpg)
+gallery:
+  ![alt](/assets/img/micromold.jpg)
 
 
  
