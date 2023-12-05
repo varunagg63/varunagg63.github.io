@@ -9,30 +9,62 @@ gallery:
     alt: "placeholder image 1"
  
 ---
-## Project Description: 
-The objective of the project was to create needle-nose pliers to pick up a resistor sized part. These pliers needed to incorporate a flexible element that returns the pliers to its closed positon when not in use. 
-  * Print-in-place models are 3D printed models that can work immediately after removal from the print bed
-  * Many companies print-in place parts, such as aerospace companies who 3D print metal parts for engines that are able to be used immediately after printing
-  * Some models are printed such that there is clearance between joints that require motion, however these do not always work well
-  * Instead, dual extrusion is effective at incorporating multiple materials into a print, such as adding in TPU into the center of the pliers for actuation
-  * This project incorporated dual extrusion of PLA and TPU to print-in-place needle nosed pliers. 
+## Microfluidic Device Description: 
+  * Microfluidic devices enable rapid and thorough mixing of fluids on a micro scale
+    * Channels allow flow at a high contact surface to volume ratio, which enables effective mixing of liquids
+    * Applied in pregnancy testing, cell culture devices, and mostly biomedical applications
+  * Challenges in mixing due to slow flow speeds
+    * Flow is in laminar regime from slow flow and small lengths resulting in a low Reynold's number 
+    * Turbulent flow would be better to take advantage of more efficient mixing from vortex formation in turbulent flow
+    * Thus, microfluidic devices rely on diffusive mixing (random motion of particles)
+  * Improving mixing can be done with passive or active mixing elements
+    * Passive mixers increase contact area and time between the reagents
+      * 3D features
+      * Zig-zags
+      * Parallel lamination 
+    * Active mixers apply external force to increase mixing efficiency
+      * Magnetic
+      * Acoustic 
+      * Thermal 
+    * The device made in this project used passive mixing elements instead of active
 
-  
+## Fabrication Steps:
+  * SLA printer used to create mold
+    * High temperature resin used
+  * SLA mold washed for 50 minutes and cleaned with IPA to ensure uncured resin was not present
+  * Cured for 30 minutes at 60 degrees C
+  * Mold coated with parylene
+  * PDMS mixture casted into the mold and cured
+  * Device bonded to glass microscope slides
 
-## Design:
-  * PLA was used to print the handle and jaw piece
-  * A TPU web was inserted into the middle of the piece connecting the jaws and handles together
-    * This was made as a square because the parallelogram shape during flexion would allow the jaws to close
-    * Web was made 3mm thick, this avoided being too thin that it breaks but not too thick where it can't flex
-  * The TPU was held in the PLA using a PLA rod with TPU printed around it. 
-    * A mechanical way to fasten was more reliable that relying on intermaterial adhesion 
+### Justification for VPP:
+  * VPP prints can print very fine details depending on spot size, with a minimum feature size of 85 micron in this project 
+  * Easy to incorporate different passive mixing elements and print them with high resolution 
+  * Photolithography is an alternative to VPP printing:
+    * Higher cost 
+    * Longer fabrication 
+  * Drawback of VPP:
+    * Parylene 
+
+
+## Design 
+### CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9f771756a987cd75?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+### Geometry:
+  * Looping channels
+    ** Change of direction in X and Y for both fluids motivates mixing 
+    ** Simple to design 
+  * Ramp walls
+    ** Disruptive mixing effect
+    ** Adds Z direction mix
+
 
 ## Material Joint
 ![PLA rod encased by TPU](/assets/img/plierrod.jpg)
 
 
-## CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9f771756a987cd75?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 
 ## Video:
 ![Pliers in action](/assets/img/pliergif.gif)
