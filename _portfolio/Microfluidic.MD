@@ -4,8 +4,8 @@ excerpt: "VPP print of a microfluidic device"
 header:
   teaser: /assets/img/mixermain.jpg
 gallery:
-  - url: 
-    image_path: 
+  - url: assets/img/micromold.jpg
+    image_path: /assets/img/micromold.jpg
     alt: "placeholder image 1"
  
 ---
