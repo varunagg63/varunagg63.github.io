@@ -41,8 +41,7 @@ header:
     * Higher cost 
     * Longer fabrication 
   * Drawback of VPP:
-    * Requires parylene coating step to be applied
-    * Parylene coating may be poor if the VPP print had uncured areas or a poor surface
+    * Requires parylene since SLA print is not cytocompatible while parylene meets FDA standards for human implantation
 
 
 ## Design 
