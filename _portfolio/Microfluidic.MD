@@ -41,8 +41,8 @@ header:
     * Higher cost 
     * Longer fabrication 
   * Drawback of VPP:
-    * Addition parylene coating can slightly alter dimensions of device features
-    * Parylene coating may be poor if the VPP print had uncured areas or a poor surface and cause final device to not come out well 
+    * Requires parylene coating step to be applied
+    * Parylene coating may be poor if the VPP print had uncured areas or a poor surface
 
 
 ## Design 
@@ -68,7 +68,7 @@ header:
 
 
 ## Video:
-![Mold in action](/assets/img/pliergif.gif)
+![Mold in action](/assets/img/mixergif.gif)
 
 
 
