@@ -32,7 +32,7 @@ header:
 
 
 ### CAD Model
-##AlSi10Mg Model
+## AlSi10Mg Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e83e2f44c61aef3b9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 ## Nylon Model 
 
