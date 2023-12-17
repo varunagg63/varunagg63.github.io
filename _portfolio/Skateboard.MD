@@ -30,11 +30,10 @@ header:
 * Starting geometry of the given truck hanger used to lower computation time 
 * Obstacle geometry added to ensure additioal hardware can be successfully addded (bearings, wheels, etc.) 
 
-
-### CAD Model
-## AlSi10Mg Model
+### AlSi10Mg CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e83e2f44c61aef3b9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-## Nylon Model 
+
+### Nylon CAD Model 
 
 ## SLS Printed Truck 
 ![alt](/assets/img/truckprint.jpg)
