@@ -4,8 +4,6 @@ excerpt: "Skateboard truck and deck design"
 header:
   teaser: /assets/img/mixermain.jpg
 ---
-![alt](/assets/img/micromold1.jpg) ![alt](/assets/img/casteddevice.jpg)
-
 ## Generative Design: 
 ### Generative Design Background
 * Generative design leverages algorithims and AI to create desgin based on user requirement inputs. 
@@ -32,17 +30,13 @@ header:
 * Starting geometry of the given truck hanger used to lower computation time 
 * Obstacle geometry added to ensure additioal hardware can be successfully addded (bearings, wheels, etc.) 
 
-## Design 
+
 ### CAD Model
 ##AlSi10Mg Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9f771756a987cd75?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 ## Nylon Model 
 
+## SLS Printed Truck 
+![alt](/assets/img/truckprint.jpg)
 
-
-
-
-## Specifications:
-![Top view](/assets/img/moldtopdim.jpg)
-![Side view](/assets/img/moldsidedim.jpg)
 
